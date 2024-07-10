@@ -14,8 +14,8 @@ font-size:12px;
     padding:10px;}
     
 h5{
-    background-color: #CBA275;
-display: flex;
+ background-color: #CBA275;
+display: flex; 
  flex-direction:row;
  justify-content:space-evenly;
 }
@@ -26,8 +26,10 @@ flex-wrap: wrap;
 
 }
    .shop-now{
-    border-radius:60px;
-    background-color:red;
+    width:50px;
+    border-radius:60px; 
+   justify-content:center;
+
     
    }
 .blockA{
@@ -35,12 +37,15 @@ flex-wrap: wrap;
  flex-direction:column;
 
 }
+img{
+    border-bottom: 10px solid #BF5955;
+  border-right: 10px solid #BF5955 ;
+}
 .blockB{
     float:none;
     display:flex;
     flex-direction:row;
-    /* border-left: #CCC 2px solid; */
     height: 320px;
     justify-content: space-evenly;
-    background-color:#D7B495;
+
 }
