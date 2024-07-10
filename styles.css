@@ -1,0 +1,16 @@
+*{
+ background color:#FCF8F8;
+ text-color:#BF5955;
+text-align:center;
+ color:#BF5955;
+ list-style: none;
+
+}
+
+.images{
+    display:flex;
+    flex-direction: row;
+   object-fit:cover;
+    
+   }
+   
