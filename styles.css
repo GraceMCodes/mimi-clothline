@@ -67,6 +67,7 @@ img{
     border-bottom: 10px solid #DD3675;
   border-left: 10px solid #DD3675 ;
   transition: 1500ms opacity  ease-in-out;
+  border-radius:24px;
   
   width:80%;
   margin: 0 auto;
